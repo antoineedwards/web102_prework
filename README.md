@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src= '"C:\Users\edwar\AppData\Local\VirtualStore\Program Files (x86)\LICEcap\codepath prework.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= '"codepath prework.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
