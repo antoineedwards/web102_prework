@@ -143,7 +143,7 @@ allBtn.addEventListener("click", showAllGames)
 const descriptionContainer = document.getElementById("description-container");
 
 // use reduce to count the number of unfunded games
-const numUnfunded = games.reduce((sum, game) => game.pledged < game.goal ? sum + 1 : sum, 0);
+const numUnfunded = GAMES_JSON.reduce((sum, game) => game.pledged < game.goal ? sum + 1 : sum, 0);
 
 // create a string explaining the number of unfunded games using a ternary operator
 const unfundedDescription = numUnfunded > 0 
@@ -164,7 +164,7 @@ const firstGameContainer = document.getElementById("first-game");
 const secondGameContainer = document.getElementById("second-game");
 
 // sort games by pledge amount
-const sortedGames = [...games].sort((item1, item2) => item2.pledged - item1.pledged);
+const sortedGames = [...GAMES_JSON].sort((item1, item2) => item2.pledged - item1.pledged);
 
 // use destructuring to grab the first and second games
 const [topGame, runnerUp] = sortedGames;
