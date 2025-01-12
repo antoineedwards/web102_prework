@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![](https://github.com/antoineedwards/web102_prework/blob/main/codepath%20prework.gif)
 
 <img src= '[](https://github.com/antoineedwards/web102_prework/blob/main/codepath%20prework.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
