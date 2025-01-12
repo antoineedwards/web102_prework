@@ -36,7 +36,7 @@ Some features were a bit harder to implement than others so I had to consult web
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Antoine Edwards]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
